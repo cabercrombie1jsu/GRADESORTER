@@ -6,8 +6,8 @@ I usually prefer to write code recursively but this code, was most definetely it
 
 ##LABAssignment1.java
 ###Methods: 
-public static int[] loadGradesFromFile(String newFile): self explanatory, this method loads the grades from a text file. In this function, I used the scanner function in order to scan the grades that I needed. 
-public static int[] createBins(int[] data, int[] upperBound): This function plays as the convenient function, this is where I place the grades and where I would like to store them. 
+---- public static int[] loadGradesFromFile(String newFile): self explanatory, this method loads the grades from a text file. In this function, I used the scanner function in order to scan the grades that I needed. 
+---- public static int[] createBins(int[] data, int[] upperBound): This function plays as the convenient function, this is where I place the grades and where I would like to store them. 
 
 
 ##Main.java
