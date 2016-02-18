@@ -18,6 +18,8 @@ I usually prefer to write code recursively but this code, was most definetely it
 #How to run LabAssignment1.java
 I assume you have the Java Development Kit installed on your machine, so you will just run this like any other java program:
 
-Open the command prompt in the directory containing "Main.java" and "Sorts.java".
+Open the command prompt in the directory containing "Main.java" and "LabAssignment1.java".
+
 Compile the Main class by typing: "javac Main.java" and hit enter in the command prompt.
+
 Now that the program is compiled, run it by typing "java Main" and hit enter.
