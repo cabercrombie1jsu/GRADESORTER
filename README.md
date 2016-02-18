@@ -13,7 +13,7 @@ I usually prefer to write code recursively but this code, was most definetely it
 
 
 ##Main.java
-
+In Main.java, This is where I held the grade text file. I also initialized the bins (the place to store the grades).
 
 #How to run LabAssignment1.java
 I assume you have the Java Development Kit installed on your machine, so you will just run this like any other java program:
